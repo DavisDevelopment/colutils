@@ -1,4 +1,4 @@
-package colutils;
+package colutils.cli;
 
 import java.util.Hashtable;
 
